@@ -12,4 +12,4 @@ I'm a undergraduate student from [School of Economics and Management](https://em
 
 You can find my CV here: [Yuheng Wang's Curriculun Vitae](../assets/Curriculum_Vitae.pdf)
 
-[Email](yvhengwang@foxmail.com)
+[Email](mailto:yvhengwang@foxmail.com)
